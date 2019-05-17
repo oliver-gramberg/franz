@@ -1,7 +1,7 @@
 [
   {
     "id": "global.api.unhealthy",
-    "defaultMessage": "!!!Can't connect to Franz Online Services",
+    "defaultMessage": "!!!Can't connect to Franz online services",
     "file": "src/i18n/globalMessages.js",
     "start": {
       "line": 4,
@@ -40,7 +40,7 @@
   },
   {
     "id": "global.spellchecker.useDefault",
-    "defaultMessage": "!!!Use System Default ({default})",
+    "defaultMessage": "!!!Use system default ({default})",
     "file": "src/i18n/globalMessages.js",
     "start": {
       "line": 16,
