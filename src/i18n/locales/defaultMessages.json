@@ -2,7 +2,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "!!!Import your Franz 4 services",
+        "defaultMessage": "!!!Import Your Franz 4 Services",
         "end": {
           "column": 3,
           "line": 16
@@ -15,7 +15,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Services not yet supported in Franz 5",
+        "defaultMessage": "!!!Services not yet Supported in Franz 5",
         "end": {
           "column": 3,
           "line": 20
@@ -72,7 +72,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Invite 3 of your friends or colleagues",
+        "defaultMessage": "!!!Invite 3 of Your Friends or Colleagues",
         "end": {
           "column": 3,
           "line": 23
@@ -443,7 +443,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Firstname",
+        "defaultMessage": "!!!First name",
         "end": {
           "column": 3,
           "line": 25
@@ -456,7 +456,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Lastname",
+        "defaultMessage": "!!!Last name",
         "end": {
           "column": 3,
           "line": 29
@@ -508,7 +508,7 @@
         }
       },
       {
-        "defaultMessage": "!!!By creating a Franz account you accept the",
+        "defaultMessage": "!!!By creating a Franz account, you accept the",
         "end": {
           "column": 3,
           "line": 45
@@ -1125,7 +1125,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Upgrade your Account",
+        "defaultMessage": "!!!Upgrade your account",
         "end": {
           "column": 3,
           "line": 25
@@ -1164,7 +1164,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Basic Account",
+        "defaultMessage": "!!!Basic account",
         "end": {
           "column": 3,
           "line": 37
@@ -1177,7 +1177,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Premium Supporter Account",
+        "defaultMessage": "!!!Premium Supporter account",
         "end": {
           "column": 3,
           "line": 41
@@ -1190,7 +1190,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Edit Account",
+        "defaultMessage": "!!!Edit account",
         "end": {
           "column": 3,
           "line": 45
@@ -1351,7 +1351,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Manage Team",
+        "defaultMessage": "!!!Manage team",
         "end": {
           "column": 3,
           "line": 32
@@ -1377,7 +1377,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Invite Friends",
+        "defaultMessage": "!!!Invite friends",
         "end": {
           "column": 3,
           "line": 40
@@ -1408,7 +1408,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "!!!Available Services",
+        "defaultMessage": "!!!Available services",
         "end": {
           "column": 3,
           "line": 18
@@ -1530,7 +1530,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Delete Service",
+        "defaultMessage": "!!!Delete service",
         "end": {
           "column": 3,
           "line": 29
@@ -1647,7 +1647,7 @@
         }
       },
       {
-        "defaultMessage": "!!!To add self hosted services, you need a Franz Premium Supporter Account.",
+        "defaultMessage": "!!!To add self hosted services, you need a Franz Premium Supporter account.",
         "end": {
           "column": 3,
           "line": 65
@@ -1673,7 +1673,7 @@
         }
       },
       {
-        "defaultMessage": "!!!You will be notified about all new messages in a channel, not just @username, @channel, @here, ...",
+        "defaultMessage": "!!!You will be notified about all new messages in a channel, not just those from @username, @channel, @here, ...",
         "end": {
           "column": 3,
           "line": 73
@@ -1777,7 +1777,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Please restart Franz after changing proxy Settings.",
+        "defaultMessage": "!!!Please restart Franz after changing proxy settings.",
         "end": {
           "column": 3,
           "line": 105
@@ -2296,7 +2296,7 @@
         }
       },
       {
-        "defaultMessage": "!!!You and your team use Franz? You can now manage Premium subscriptions for as many colleagues, friends or family members as you want, all from within one account.",
+        "defaultMessage": "!!!You and your team use Franz? You can now manage Premium Supporter subscriptions for as many colleagues, friends or family members as you want, all from within one account.",
         "end": {
           "column": 3,
           "line": 25
@@ -2501,7 +2501,7 @@
         }
       },
       {
-        "defaultMessage": "!!!The Franz Premium Supporter Account includes",
+        "defaultMessage": "!!!The Franz Premium Supporter account includes",
         "end": {
           "column": 3,
           "line": 37
@@ -2553,7 +2553,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Support for Spellchecker",
+        "defaultMessage": "!!!Support for spellchecker",
         "end": {
           "column": 3,
           "line": 53
@@ -2747,7 +2747,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Enable Notifications",
+        "defaultMessage": "!!!Enable notifications",
         "end": {
           "column": 3,
           "line": 39
@@ -2838,7 +2838,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Enable Dark Mode",
+        "defaultMessage": "!!!Enable dark mode",
         "end": {
           "column": 3,
           "line": 67
@@ -2864,7 +2864,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Proxy Host/IP",
+        "defaultMessage": "!!!Proxy host/IP",
         "end": {
           "column": 3,
           "line": 75
@@ -2999,7 +2999,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Dark Mode",
+        "defaultMessage": "!!!Dark mode",
         "end": {
           "column": 3,
           "line": 49
@@ -3051,7 +3051,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Enable GPU Acceleration",
+        "defaultMessage": "!!!Enable GPU acceleration",
         "end": {
           "column": 3,
           "line": 65
@@ -3082,7 +3082,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "!!!Firstname",
+        "defaultMessage": "!!!First name",
         "end": {
           "column": 3,
           "line": 17
@@ -3095,7 +3095,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Lastname",
+        "defaultMessage": "!!!Last name",
         "end": {
           "column": 3,
           "line": 21
@@ -3147,7 +3147,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Non-Profit",
+        "defaultMessage": "!!!Non-profit",
         "end": {
           "column": 3,
           "line": 37
@@ -3235,7 +3235,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Get a Franz Supporter License",
+        "defaultMessage": "!!!Get a Franz Premium Supporter license",
         "end": {
           "column": 3,
           "line": 22
@@ -3331,7 +3331,7 @@
         }
       },
       {
-        "defaultMessage": "!!! I've added {count} services to Franz! Get the free app for WhatsApp, Messenger, Slack, Skype and co at www.meetfranz.com",
+        "defaultMessage": "!!! I've added {count} services to Franz! Get the free app for WhatsApp, Messenger, Slack, Skype and others at www.meetfranz.com",
         "end": {
           "column": 3,
           "line": 38
@@ -3344,7 +3344,7 @@
         }
       },
       {
-        "defaultMessage": "!!! I've added {count} services to Franz! Get the free app for WhatsApp, Messenger, Slack, Skype and co at www.meetfranz.com /cc @FranzMessenger",
+        "defaultMessage": "!!! I've added {count} services to Franz! Get the free app for WhatsApp, Messenger, Slack, Skype and others at www.meetfranz.com /cc @FranzMessenger",
         "end": {
           "column": 3,
           "line": 42
@@ -3445,7 +3445,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Services in this Workspace",
+        "defaultMessage": "!!!Services in This Workspace",
         "end": {
           "column": 3,
           "line": 38
@@ -3554,7 +3554,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Reactivate premium account",
+        "defaultMessage": "!!!Reactivate Premium Supporter account",
         "end": {
           "column": 3,
           "line": 39
@@ -3567,7 +3567,7 @@
         }
       },
       {
-        "defaultMessage": "!!!add new workspace",
+        "defaultMessage": "!!!Add new workspace",
         "end": {
           "column": 3,
           "line": 43
@@ -3611,7 +3611,7 @@
         }
       },
       {
-        "defaultMessage": "!!!edit",
+        "defaultMessage": "!!!Edit",
         "end": {
           "column": 3,
           "line": 19
@@ -3826,7 +3826,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "!!!Can't connect to Franz Online Services",
+        "defaultMessage": "!!!Can't connect to Franz online services",
         "end": {
           "column": 3,
           "line": 7
@@ -3865,7 +3865,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Use System Default ({default})",
+        "defaultMessage": "!!!Use system default ({default})",
         "end": {
           "column": 3,
           "line": 19
@@ -3987,7 +3987,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Paste And Match Style",
+        "defaultMessage": "!!!Paste And match style",
         "end": {
           "column": 3,
           "line": 42
@@ -4013,7 +4013,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Select All",
+        "defaultMessage": "!!!Select all",
         "end": {
           "column": 3,
           "line": 50
@@ -4039,7 +4039,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Start Speaking",
+        "defaultMessage": "!!!Start speaking",
         "end": {
           "column": 3,
           "line": 58
@@ -4052,7 +4052,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Stop Speaking",
+        "defaultMessage": "!!!Stop speaking",
         "end": {
           "column": 3,
           "line": 62
@@ -4065,7 +4065,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Start Dictation",
+        "defaultMessage": "!!!Start dictation",
         "end": {
           "column": 3,
           "line": 66
@@ -4078,7 +4078,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Emoji & Symbols",
+        "defaultMessage": "!!!Emoji & symbols",
         "end": {
           "column": 3,
           "line": 70
@@ -4091,7 +4091,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Actual Size",
+        "defaultMessage": "!!!Actual size",
         "end": {
           "column": 3,
           "line": 74
@@ -4104,7 +4104,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Zoom In",
+        "defaultMessage": "!!!Zoom in",
         "end": {
           "column": 3,
           "line": 78
@@ -4117,7 +4117,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Zoom Out",
+        "defaultMessage": "!!!Zoom out",
         "end": {
           "column": 3,
           "line": 82
@@ -4130,7 +4130,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Enter Full Screen",
+        "defaultMessage": "!!!Enter full screen",
         "end": {
           "column": 3,
           "line": 86
@@ -4143,7 +4143,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Exit Full Screen",
+        "defaultMessage": "!!!Exit full screen",
         "end": {
           "column": 3,
           "line": 90
@@ -4156,7 +4156,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Toggle Full Screen",
+        "defaultMessage": "!!!Toggle full screen",
         "end": {
           "column": 3,
           "line": 94
@@ -4169,7 +4169,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Toggle Developer Tools",
+        "defaultMessage": "!!!Toggle developer tools",
         "end": {
           "column": 3,
           "line": 98
@@ -4182,7 +4182,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Toggle Service Developer Tools",
+        "defaultMessage": "!!!Toggle service developer tools",
         "end": {
           "column": 3,
           "line": 102
@@ -4195,7 +4195,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Reload Service",
+        "defaultMessage": "!!!Reload service",
         "end": {
           "column": 3,
           "line": 106
@@ -4247,7 +4247,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Learn More",
+        "defaultMessage": "!!!Learn more",
         "end": {
           "column": 3,
           "line": 122
@@ -4468,7 +4468,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Add New Service...",
+        "defaultMessage": "!!!Add new service...",
         "end": {
           "column": 3,
           "line": 190
@@ -4481,7 +4481,7 @@
         }
       },
       {
-        "defaultMessage": "!!!Add New Workspace...",
+        "defaultMessage": "!!!Add new workspace...",
         "end": {
           "column": 3,
           "line": 194
